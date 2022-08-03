@@ -48,5 +48,9 @@ jobs:
           run: |
             echo ==java version==
             java --version
+      - name: Step6 - check java version
+        run: |
+          echo ==java version==
+          java --version
         
           
