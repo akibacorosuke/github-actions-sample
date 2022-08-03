@@ -35,9 +35,9 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           echo Is maven installed?
-          maven --version
+          mvn --version
           echo Is jave installed?
           java -version
           echo Is gradle installed?
-          gradle -version
+          gradle --version
           
