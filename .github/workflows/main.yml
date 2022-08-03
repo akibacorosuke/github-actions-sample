@@ -34,7 +34,7 @@ jobs:
       - name: Step3 - print strings
         run: |
           echo ==jave version==
-          jave --version
+          java --version
       
       - name: Step4 - show disc space
         run: |
